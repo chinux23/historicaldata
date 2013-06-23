@@ -1,7 +1,7 @@
-@ES#,EminiFutureSP500,0.25
-+GC#,EminiFutureGold,0.1
-+HG#,EminiFutureCopper,0.0005
-US#,USTreasuryNotesFuture,0.03125
-@QM#,EminiFutureCrudeOil,0.025
-@test#,UnitTests,0.0005
-@SanDiego#, UnitTests, 0.005
+@ES#,EminiFutureSP500,0.25,50
++GC#,EminiFutureGold,0.1,100
++HG#,EminiFutureCopper,0.0005,25000
+US#,USTreasuryNotesFuture,0.03125,1000
+@QM#,EminiFutureCrudeOil,0.025,500
+@test#,UnitTests,0.0005,2500
+@SanDiego#, UnitTests, 0.0005,2500
