@@ -1,2 +1,7 @@
-Testing Readme.
+Historical Data is a repository hosting CSV tick data and minute data mainly used for back testing.
 
+In quantative finance, a clean data of the whole market requires a lot of work.
+However, Individual usually have a good clean data for a few tickers.
+So instead of buying a whole data sets from a data feed provider, we'll let the individual investor to contribute their data here. By opening the CSV file to individual investor, they are able to examine tick/minute data for any given time. This way, if the data base has some error, it will be raised and corrected by the community. So that one day, this may become a reliable data source.
+
+Hopefully this project can be beneficial to individual quantitive investors. 
